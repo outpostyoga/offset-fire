@@ -12,7 +12,7 @@ Lesson 5 - Handling incoming data
 Lesson 6 - Writing better routes and serving external files
 Lesson 7 - Capstone: Creating your first web application
 
-UNIT 2 - EASIER WEB DEVELOPMENT WITH EXPRESS.JS
+UNIT 2 - EASIER WEB DEVELOPMENT WITHOUT DEPENDENCIES
 Lesson 8 - Setting up an app with Express.js
 Lesson 9 - Routing in Express.js
 Lesson 10 - Connecting views with templates
