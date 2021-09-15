@@ -1,4 +1,5 @@
 # offset-fire
+A simple native Node.js codebase for easy solutions to complex hosting and web application logistics.
 
 GETTING SET UP
 Lesson 0 - Setting up Node.js and the JavaScript engine
