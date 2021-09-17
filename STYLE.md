@@ -6,24 +6,26 @@
 4. Use NAMESPACE.lib.ClassName as a prefix for all variables and constants in the global and module namespaces.
 5. Double-space all lines.
 
-    // LOGIC. System interface. License.
+```
+// LOGIC. System interface. License.
 
-    global[ "HWAJS.lib.System.boot.license" ] = function ( ) {
+global[ "HWAJS.lib.System.boot.license" ] = function ( ) {
 
-      // A-Z VARIABLES.
+  // A-Z VARIABLES.
 
-      let fn = new Object ( );
+  let fn = new Object ( );
 
-      // ERROR? !@#$. License missing.
+  // ERROR? !@#$. License missing.
 
-      if ( global[ "HWAJS.lib.System.constant.settings.license" ] !== "tm" ) {
+  if ( global[ "HWAJS.lib.System.constant.settings.license" ] !== "tm" ) {
 
-        global[ "HWAJS.lib.System.log" ] ( "// BOOT. ERROR? !@#$. License missing." );
+    global[ "HWAJS.lib.System.log" ] ( "// BOOT. ERROR? !@#$. License missing." );
 
-        process.exit ( );
+    process.exit ( );
 
-      }
+  }
 
-      global[ "HWAJS.lib.System.log" ] ( "// BOOT. System license applied." );
+  global[ "HWAJS.lib.System.log" ] ( "// BOOT. System license applied." );
 
-    }
+}
+```
