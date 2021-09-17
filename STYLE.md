@@ -6,12 +6,12 @@
 4. Use NAMESPACE.lib.ClassName as a prefix for all variables and constants in the global and module namespaces.
 5. Double-space all lines.
 6. Use one of the pre-approved comment prefixes to make your code readable.
-   1. // A-Z VARIABLES.
-   2. // A-Z VARIABLES. Dependent.
-   3. // ERROR? !@#$.
-   4. // INTERSECTION.
-   5. // LOGIC.
-   6. // TRAFFIC COP.
+   // A-Z VARIABLES.
+   // A-Z VARIABLES. Dependent.
+   // ERROR? !@#$.
+   // INTERSECTION.
+   // LOGIC.
+   // TRAFFIC COP.
 
 ```
 // LOGIC. System interface. License.
