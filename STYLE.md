@@ -13,6 +13,7 @@
    - // LOGIC.
    - // RESEARCH. https://wikipedia.org
    - // TRAFFIC COP.
+7. Space-seperate all syntax except array and object accessors like [ ] and .
 
 ```
 // LOGIC. System interface. License.
