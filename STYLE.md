@@ -9,6 +9,8 @@
 7. Use one of the pre-approved comment prefixes to make your code readable. Add clarity with appended terse English sentence(s).
    - // A-Z VARIABLES.
    - // A-Z VARIABLES. Dependent.
+   - // BOOT.
+   - // BOOT. ERROR? !@#$.
    - // ERROR? !@#$.
    - // INTERSECTION.
    - // LOGIC.
