@@ -18,6 +18,7 @@
 8. Space-seperate all syntax except array and object accessors like [ ] and .
 9. Use strict equality evaluations (x === y) for all expressions.
    * Exempt x == undefined in order to support JSON import (which turns undefined into null).
+10. All array's should be array's of objects to ensure a consistent interface to IteratedAuditTrail JSON data and native memory objects.
 
 ```
 // LOGIC. System interface. License.
