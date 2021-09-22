@@ -16,8 +16,8 @@
    - // RESEARCH. https://wikipedia.org
    - // TRAFFIC COP.
 8. Space-seperate all syntax except array and object accessors like [ ] and .
-9. Use strict equality evaluations for all expressions.
-   * Exempt == undefined in order to support JSON import (which turns undefined into null).
+9. Use strict equality evaluations (x === y) for all expressions.
+   * Exempt x == undefined in order to support JSON import (which turns undefined into null).
 
 ```
 // LOGIC. System interface. License.
