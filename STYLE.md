@@ -1,5 +1,7 @@
 # Node.js Offset Fire Syntax Style Guide
 
+### Syntax Rules.
+
 1. Use lowerCamelCase for all variables and constants phrases. Separate logical expressions with periods.
 2. Use #~objectKey.diminutive for all object key holding variables and constants.
 3. Use fn, global and module objects to scope all variables and constants and easily prevent memory-leak issues from creeping in.
@@ -9,7 +11,8 @@
 7. Use one of the pre-approved comment prefixes to make your code readable. Add clarity with appended terse English sentence(s).
    - // A-Z VARIABLES.
    - // A-Z VARIABLES. Dependent.
-   - // BOOT..
+   - // BOOT.
+   - // DESTINATION. Disembark for garbage collection.
    - // ERROR? !@#$.
    - // INTERSECTION.
    - // LOGIC.
@@ -44,3 +47,16 @@ global[ "HWAJS.lib.System.boot.license" ] = function ( ) {
 
 }
 ```
+
+### Programming dictionary.
+
+**#~ticket** // LOGIC. Complete object key.
+**bodywork** // LOGIC. Use a regular expression to replace key segment.
+**flatpack** // LOGIC. Native JS object foundation for collapsed array's and object stacks.
+**filter** // LOGIC. Use a regular expression to filter keys.
+**patch** // LOGIC. Replacement. Usually for a regular expression replace.
+**patched** // LOGIC. Completed replacement. Usually after a regular expression replace.
+**prefix** // LOGIC. Prefix keys.
+**regexp** // LOGIC. Regular expression.
+**stub** // LOGIC. Partial object key.
+**typeof** // LOGIC. System typeof.
