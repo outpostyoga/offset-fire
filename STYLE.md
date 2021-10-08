@@ -50,13 +50,13 @@ global[ "HWAJS.lib.System.boot.license" ] = function ( ) {
 
 ### Programming dictionary.
 
-**#~ticket** // LOGIC. Complete object key.
-**bodywork** // LOGIC. Use a regular expression to replace key segment.
-**flatpack** // LOGIC. Native JS object foundation for collapsed array's and object stacks.
-**filter** // LOGIC. Use a regular expression to filter keys.
-**patch** // LOGIC. Replacement. Usually for a regular expression replace.
-**patched** // LOGIC. Completed replacement. Usually after a regular expression replace.
-**prefix** // LOGIC. Prefix keys.
-**regexp** // LOGIC. Regular expression.
-**stub** // LOGIC. Partial object key.
-**typeof** // LOGIC. System typeof.
+- **#~ticket** // LOGIC. Complete object key.
+- **bodywork** // LOGIC. Use a regular expression to replace key segment.
+- **flatpack** // LOGIC. Native JS object foundation for collapsed array's and object stacks.
+- **filter** // LOGIC. Use a regular expression to filter keys.
+- **patch** // LOGIC. Replacement. Usually for a regular expression replace.
+- **patched** // LOGIC. Completed replacement. Usually after a regular expression replace.
+- **prefix** // LOGIC. Prefix keys.
+- **regexp** // LOGIC. Regular expression.
+- **stub** // LOGIC. Partial object key.
+- **typeof** // LOGIC. System typeof.
